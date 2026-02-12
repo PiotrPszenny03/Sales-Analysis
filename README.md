@@ -1,4 +1,7 @@
 Global Sales Intelligence Dashboard
+
+<img width="1164" height="651" alt="image" src="https://github.com/user-attachments/assets/b86e8be0-9b8a-42c7-aca2-e9926dc62d55" />
+
 🎯 Project Goal
 The goal of this project was to transform raw sales data into a dynamic, interactive Business Intelligence solution. Unlike simple flat-file reports, this dashboard is built on a robust Data Model to ensure scalability and performance.
 
@@ -22,6 +25,10 @@ Power Query (ETL) – Data cleaning, type conversion, and creating conditional c
 SQL Logic – The data structure reflects standard Data Warehouse principles (Fact/Dim).
 
 🏗️ Data Architecture 
+
+<img width="998" height="637" alt="image" src="https://github.com/user-attachments/assets/7731fe9c-ee0b-4d35-9189-5021e4d334fc" />
+
+
 1. Star Schema Design
 The Foundation: Instead of using a single flat table, I designed a Star Schema centered around the fact_sales_monthly table.
 
