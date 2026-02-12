@@ -70,4 +70,4 @@ Navigate to the "Model View" tab to inspect the Star Schema relationships and th
 
 👤 Author
 Piotr Pszenny
-Aspiring Risk & Data Analyst | Gdańsk Tech
+Aspiring Risk & Data Analyst 
